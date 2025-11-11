@@ -11,6 +11,18 @@ https://github.com/Andeskjerf/waybar-module-pomodoro
 Required Fonts:
 'SF Pro Text', 'Inter', 'Segoe UI, NotoSans Nerd Font', 'sans-serif'
 
+For arch:
+```
+sudo pacman -S inter-font
+sudo pacman -S ttf-noto-nerd
+yay -S apple-fonts
+yay -S ttf-ms-win11-segoe-ui-variable
+```
+
+Refresh cache:
+```
+fc-cache -fv
+```
 [windows wallpaper](https://raw.githubusercontent.com/Prateek7071/dotfiles/main/asset/3.jpg)<br>
 
 Waybar modules: <br>
