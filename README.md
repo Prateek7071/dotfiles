@@ -16,7 +16,7 @@ For arch:
 sudo pacman -S inter-font
 sudo pacman -S ttf-noto-nerd
 yay -S apple-fonts
-yay -S ttf-ms-win11-segoe-ui-variable
+yay -S ttf-segoe-ui-variable
 ```
 
 Refresh cache:
